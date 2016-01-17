@@ -1,5 +1,3 @@
-.ke-container{box-sizing: border-box;}
-.ke-input-text{box-sizing: content-box!important;padding: 2px 4px!important;}
 /* common */
 .ke-inline-block {
 	display: -moz-inline-stack;
@@ -242,6 +240,11 @@
 }
 .ke-icon-about {
 	background-position: 0px -672px;
+	width: 16px;
+	height: 16px;
+}
+.ke-icon-more {
+	background-position: 0px -1024px;
 	width: 16px;
 	height: 16px;
 }

@@ -50,6 +50,7 @@ KindEditor.lang({
 	unlink : '取消超级链接',
 	fullscreen : '全屏显示',
 	about : '关于',
+	more : '分界符',
 	print : '打印(Ctrl+P)',
 	filemanager : '文件空间',
 	code : '插入程序代码',
